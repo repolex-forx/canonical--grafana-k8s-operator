@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/grafana-k8s-operator/commit/4a94c6df122302aa0375e75a0ea414f508ade3c6",
       "git:hexsha": "4a94c6df122302aa0375e75a0ea414f508ade3c6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev208"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev208",
+      "repolex:parsedAt": "2026-11-08T16:11:32.504138+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/grafana-k8s-operator/commit/0c7c876688a99ba1c9e9de51511edfabf6dc4f4e",
